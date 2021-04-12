@@ -13,3 +13,6 @@ My KTH Master thesis project
 6. Measure the performance.
 
 7. Let’s try to make some adjustments to increase the performance.
+
+# Focus on these patients
+chb04 chb06 chb08 chb15 chb17 chb19
